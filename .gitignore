@@ -1,0 +1,12 @@
+# Arquivos de Sistema
+.DS_Store
+# Ambientes Virtuais Python
+.venv/
+venv/
+# Arquivos de Configuração (Segurança)
+.env
+# Cache de Python
+__pycache__/
+*.pyc
+# Arquivos de Logs/Dados Gerados
+*.log
