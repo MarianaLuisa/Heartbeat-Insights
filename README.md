@@ -1,8 +1,4 @@
-Aqui está o `README.md` completo e finalizado para o seu repositório do Pipeline de Processamento de Dados (Python).
-
------
-
-# 🔬 Heartbeat Insights - Pipeline de Processamento de Dados (Python)
+# Heartbeat Insights - Pipeline de Processamento de Dados (Python)
 
 [](https://www.python.org/downloads/)
 [](https://scikit-learn.org/stable/)
